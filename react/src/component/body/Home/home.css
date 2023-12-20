@@ -1,0 +1,52 @@
+.namee h2{
+    margin-top: 50px;
+    text-align: center;
+}
+.carousel{
+    width: 70%;
+    margin: auto;
+    /* height: 10px; */
+    
+
+}
+#carouselExampleControls{
+    margin-top: 70px;
+}
+.carousel img{
+    height: 50vh;
+    background-size: cover;
+}
+.support-main-1{
+    padding: 50px;
+    background-color: #fafafc;
+    text-align: center;
+    
+}
+.support-main-1 h2{
+    margin-bottom:30px ;
+}
+.support-main-1 p{
+    width: 50%;
+    margin: auto;
+    font-weight: 400;
+    color: #6b7280;
+}
+.support-main-1 span{
+    color: black;
+    font-weight: 500;
+}
+.support-main-1-button button{
+    padding: 12px 25px;
+    border-radius: 5px;
+    border: 1px solid #0f766e;
+    background-color: #0f766e;
+    color: white;
+    font-weight: 400;
+    margin-top: 30px;
+    font-size: 17px;
+}
+.support-main-1-button button:hover{
+    background-color: #0f5a54;
+}
+
+
